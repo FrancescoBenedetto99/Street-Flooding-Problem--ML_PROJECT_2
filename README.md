@@ -1,6 +1,6 @@
 # Street Flooding Simulation
 
-Project for the Machine Learning course held at Politecnico di Milano by Professor Carlo Vercellis.
+Project for the Machine Learning course held at @Politecnico di Milano.
 
 ---
 
