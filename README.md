@@ -6,7 +6,7 @@ Project for the Machine Learning course held at @Politecnico di Milano.
 
 ## INTRODUCTION
 
-This project aims to develop a machine learning model capable of predicting flood event outcomes based on initial conditions. A dataset of 3,000 simulated flood incidents (training set) serves as historical data points to train the model.
+This project aims to develop a machine learning model capable of predicting flood event outcomes based on street initial conditions. A dataset of 3,000 simulated flood incidents (training set) serves as historical data points to train the model.
 
 The goal of this project is to build a data-driven model that captures the underlying logic of the simulator generating these incidents and can replicate its predictions. Each simulated incident is unique, beginning with distinct initial conditions and leading to different outcomes. However, the geographical layout, including the street network and location coordinates of each street segment, remains unchanged across simulations. This consistent geographic information is available in the `edge_info.csv` file.
 
